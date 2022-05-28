@@ -1,7 +1,23 @@
 {
   "name": "neatpic.ml",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "description": "Media Creation - Made Simple!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodrShiv/NeatPic.git"
+  },
+  "keywords": [
+    "Photo Generator",
+    "Post Generator",
+    "Thumbnail Generator",
+    "Creator Utility"
+  ],
+  "author": "Shivansh Sahu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodrShiv/NeatPic/issues"
+  },
+  "homepage": "neatpic.ml",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
